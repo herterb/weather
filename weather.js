@@ -5,8 +5,7 @@ $(function() {
     // Put your code here to change the "markup" variable.
     // Don't change any other code in this file. You will be sad.
 
-    var markup = "The weather report... " + "will be here when I finish my homework.";
-
+    var markup = "Current Temperature is " + data.currently.temperature + " degrees";
 
 
     // End of your code
